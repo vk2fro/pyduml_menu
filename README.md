@@ -1,7 +1,7 @@
 # pyduml_menu
-
-A menu selector for hdnes pyduml script to make rooting/flashing DJI products stupidly simple.
 =======
+
+A menu selection system for hdnes' pyduml.py script for flashing/rooting DJI devices, which makes the process stupidly simple.
 
 RC's can be finicky. If your RC refuses to play (refuses FTP) heres a possible fix:
 
